@@ -13,7 +13,7 @@ site_author: Flavia Marzano
 theme:
   name: "material"
   custom_dir: docs/overrides/
-  logo: images/falviamarzano.png
+  logo: images/falviamarzano.jpg
   palette:
     - scheme: default
       primary: indigo
