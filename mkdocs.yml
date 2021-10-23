@@ -5,8 +5,8 @@ site_description: Innovazione PA, quello che il cittadino non sempre vede
 site_author: Flavia Marzano
 
 ## Repository
-# repo_url: https://github.com/cirospat/mkdocs-ideale
-# repo_name: mkdocs-ideale
+# repo_url: https://github.com/cirospat/mkdocs-flavia_marzano
+# repo_name: mkdocs-flavia_marzano
 # edit_uri: edit/master/docs/
 
 ## Configuration
@@ -106,7 +106,7 @@ extra:
 ##  reg-dem-part-sgj è lo <shortname> legato a Disqus
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/cirospat/mkdocs-ideale
+      link: https://github.com/cirospat/mkdocs-flavia_marzano
       name: Repository Github
     - icon: fontawesome/solid/envelope
       link: mailto:flavia.marzano@gmail.com
